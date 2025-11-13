@@ -13,7 +13,7 @@ Users can:
 
 * Authenticate with Google
 * Generate résumé summaries
-* (Coming next) Save summaries securely in Skapi records and fetch them per user
+* Save summaries securely in Skapi records and fetch them per user
 
 ---
 
