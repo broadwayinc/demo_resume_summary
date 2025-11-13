@@ -1,5 +1,7 @@
 # Skapi-Resume-Summary-App
 
+This repo is a cloned/modifyed verson from [Asin-Junior-Honore/Skapi-Resume-Summary-App](https://github.com/Asin-Junior-Honore/Skapi-Resume-Summary-App)
+
 ### No Backend Needed: Build a Résumé Summary App with Just HTML + Skapi
 
 Tired of setting up servers, APIs, and databases just to test an idea?
